@@ -12,6 +12,7 @@ I’m solving problems step by step and tracking my progress.
 - [ ] Stacks & Queues
 - [ ] Trees
 - [ ] Graphs
+
       
 ## ▶️ How to Run
 All codes are written in **C++17**.  
@@ -20,6 +21,7 @@ Compile and run:
 g++ filename.cpp -o output
 ./output
 
-I’ll also add solutions from LeetCode.
+
+
 
 
