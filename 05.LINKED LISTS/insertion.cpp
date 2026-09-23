@@ -48,7 +48,7 @@ return 0;
 } */
 
 //3.insertion in between
-/*
+/*git
 int main(){ 
     Node* n1=new Node(10,nullptr);
     Node* n2=new Node(20,nullptr);      
